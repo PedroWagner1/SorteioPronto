@@ -53,7 +53,7 @@ Na função de sortear, ocorre um random.sample() coontendo o número de partici
 
 Este é apenas um resumo muito simpificado do bot que desenvolvi, no total são 535 linhas que garantem estabilidade, confiabilidade e integridade na função do bot. 
 
-<img src="https://i.ibb.co/ksjw07Ld/botsorteio-demonstracao.png"></img>
+<img src="https://i.postimg.cc/8PBXR4bY/botsorteio-demonstracao.png"></img>
 
 # Vídeo de Demonstração:
 
